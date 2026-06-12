@@ -222,7 +222,7 @@ Built to demonstrate **product engineering instincts** — identifying a real pr
 | **Performance** | Sub-second semantic retrieval with optimized embedding and chunking strategies |
 | **Security** | API key management, rate-limited endpoints, sandboxed document processing |
 | **Impact** | Demonstrates advanced AI engineering — RAG, vector search, LLM orchestration |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aabhimaradiya0607) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhimaradiya0607) |
 
 This project reflects hands-on expertise in **modern AI system design** — from document chunking and embedding strategies to retrieval optimization and context-aware response generation via LLMs.
 
@@ -262,7 +262,6 @@ Independently designed, engineered, and shipped multiple production-grade web ap
 | 🏆 Recognition | Details |
 |:---:|:---|
 | **Real-Time Systems** | Engineered full production WebRTC + Socket.io meetings platform from scratch |
-| **Financial Engineering** | Built a scalable trading platform with live market data and order management |
 | **AI Systems Builder** | Independently built and deployed end-to-end RAG & LLM integration pipelines |
 | **Full Stack Depth** | Shipped multiple production MERN + Next.js applications across varied domains |
 | **DSA Practitioner** | Actively solving 300+ problems across LeetCode, GFG, and CodeChef platforms |
@@ -358,7 +357,31 @@ Independently designed, engineered, and shipped multiple production-grade web ap
 </div>
 
 > ℹ️ *Add the [Platane/snk](https://github.com/Platane/snk) GitHub Actions workflow to your profile repo to enable the snake animation.*
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ abhimaradiya0607 }}
 
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:           A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake:       Color of the snake
+    #  - color_dots:        Coma separated list of dots color.
+    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                       Exactly 5 colors are expected.
+    #  - color_background:  Color of the background (for gif only)
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ---
 
 ## ◈ Current Focus
@@ -400,15 +423,15 @@ current_focus:
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-abhimaradiya0607%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aabhimaradiya0607@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-abhimaradiya0607%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhimaradiya63@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhi%20Maradiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-maradiya-b13b21282)
 
 [![Instagram](https://img.shields.io/badge/Instagram-ig._.abhi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig._.abhi)
 
-[![GitHub](https://img.shields.io/badge/GitHub-abhimaradiya0607-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aabhimaradiya0607)
+[![GitHub](https://img.shields.io/badge/GitHub-abhimaradiya0607-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhimaradiya0607)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhimaradiya0607.github.io-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://aabhimaradiya0607.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhimaradiya0607.github.io-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://abhimaradiya0607.github.io)
 
 <br/>
 
