@@ -48,21 +48,9 @@ I believe in writing clean, maintainable code, working through the full engineer
 
 <br/>
 
-**◈ Open To**
 
 ```
-✦  Full Stack Internships — MERN / Next.js / TypeScript
-✦  AI/ML Engineering Collaborations — LLM, RAG, Agentic Systems
-✦  MERN + AI Project Collaborations
-✦  Open Source Contributions
-✦  Freelance — Web Development & AI System Integration
-```
 
-<br clear="right"/>
-
----
-
-## ◈ Tech Stack
 
 <div align="center">
 
@@ -82,9 +70,6 @@ I believe in writing clean, maintainable code, working through the full engineer
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,heroku&theme=dark)](https://skillicons.dev)
 
-**AI / ML & Data**
-
-[![My Skills](https://skillicons.dev/icons?i=sklearn,selenium,flask,fastapi,linux,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -109,141 +94,6 @@ I believe in writing clean, maintainable code, working through the full engineer
 
 </div>
 
----
-
-## ◈ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Large Language Models (LLMs)** | ◈◈◈◈◇ | Prompt engineering, LLM APIs, OpenAI & HuggingFace, evaluation strategies |
-| **Retrieval-Augmented Generation (RAG)** | ◈◈◈◈◇ | Vector stores, embeddings, semantic search, LangChain / LlamaIndex pipelines |
-| **Vector Databases** | ◈◈◈◇◇ | Pinecone, FAISS, Chroma — semantic indexing and similarity search |
-| **Generative AI** | ◈◈◈◇◇ | Text generation, multimodal model concepts, Stable Diffusion fundamentals |
-| **Agentic AI Systems** | ◈◈◈◇◇ | Tool-use agents, ReAct framework, AutoGen, LangGraph, multi-agent orchestration |
-| **Machine Learning** | ◈◈◈◇◇ | Supervised / Unsupervised learning, scikit-learn, regression, classification |
-| **NLP** | ◈◈◈◇◇ | Tokenization, embeddings, BERT concepts, sentiment analysis, text preprocessing |
-| **Data Analysis** | ◈◈◈◈◇ | NumPy, Pandas, Matplotlib — data pipelines, feature engineering, visualization |
-| **MLOps Fundamentals** | ◈◈◇◇◇ | REST API model serving, FastAPI deployment, experiment tracking basics |
-| **Web Scraping & Automation** | ◈◈◈◈◇ | Selenium — automated browser workflows, data extraction pipelines |
-
-</div>
-
-> **Scale:** ◈◈◈◈◈ Expert &nbsp;|&nbsp; ◈◈◈◈◇ Advanced &nbsp;|&nbsp; ◈◈◈◇◇ Proficient &nbsp;|&nbsp; ◈◈◇◇◇ Familiar &nbsp;|&nbsp; ◈◇◇◇◇ Learning
-
----
-
-## ◈ Featured Projects
-
-<details>
-<summary><b>◈ Real-Time Meetings Platform</b> &nbsp;·&nbsp; MERN · Socket.io · WebRTC</summary>
-
-<br/>
-
-> A production-grade **real-time video meetings application** built with WebRTC and Socket.io — supporting peer-to-peer video, live chat, room management, and real-time event synchronization at scale.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | React · Node.js · Express · MongoDB · Socket.io · WebRTC · TailwindCSS |
-| **Scale** | Multi-room concurrent sessions with real-time bidirectional event handling |
-| **Performance** | WebRTC peer connections, low-latency signaling server, optimized socket events |
-| **Security** | JWT authentication, room access control, secure signaling layer |
-| **Impact** | Full real-time communication system — video, chat, and presence in one platform |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aabhimaradiya0607) |
-
-Built to demonstrate mastery of **real-time system architecture** — handling WebSocket event flows, WebRTC negotiation, and stateful room management simultaneously in a production-ready MERN stack application.
-
-<br/>
-
-</details>
-
----
-
-<details>
-<summary><b>◈ Trading Platform</b> &nbsp;·&nbsp; MERN · Real-Time Data · Financial Systems</summary>
-
-<br/>
-
-> A **scalable trading platform** with real-time market data streaming, order management, portfolio tracking, and live price feeds — engineered for performance, accuracy, and low-latency data delivery.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | React · Node.js · Express · MongoDB · Socket.io · React Query · TailwindCSS |
-| **Scale** | Real-time data streams with high-frequency update cycles and concurrent users |
-| **Performance** | Optimized re-render cycles, WebSocket-driven live price updates, indexed DB queries |
-| **Security** | JWT + refresh tokens, role-based access, input validation, secure API endpoints |
-| **Impact** | Production-grade financial application demonstrating complex state & real-time data |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aabhimaradiya0607) |
-
-This project reflects deep experience in **financial system engineering** — managing live data pipelines, complex state synchronization, and UI performance under continuous data throughput.
-
-<br/>
-
-</details>
-
----
-
-<details>
-<summary><b>◈ Developer Tool / Productivity App</b> &nbsp;·&nbsp; Next.js · TypeScript · Full Stack</summary>
-
-<br/>
-
-> A **developer-focused tooling application** built with Next.js and TypeScript — designed to streamline engineering workflows, improve developer productivity, and reduce friction in day-to-day development tasks.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Next.js · TypeScript · Node.js · MongoDB · TailwindCSS · Vercel |
-| **Scale** | SSR + SSG hybrid architecture for performance at scale |
-| **Performance** | Server-side rendering, static generation, API route optimization, edge deployment |
-| **Security** | NextAuth / JWT, HTTPS enforcement, API rate limiting, environment isolation |
-| **Impact** | Productivity tool that solves real developer workflow pain points |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aabhimaradiya0607) |
-
-Built to demonstrate **product engineering instincts** — identifying a real problem in developer workflows and engineering an elegant, performant solution using the Next.js App Router ecosystem.
-
-<br/>
-
-</details>
-
----
-
-<details>
-<summary><b>◈ RAG-Powered Knowledge Engine</b> &nbsp;·&nbsp; Python · LangChain · Vector DB · LLM</summary>
-
-<br/>
-
-> A **Retrieval-Augmented Generation pipeline** that enables intelligent document querying using semantic embeddings, vector search, and LLM-powered response synthesis — built as a foundational AI engineering project.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Python · LangChain · FAISS · OpenAI API · FastAPI · React |
-| **Scale** | Capable of indexing and semantically querying large document corpora |
-| **Performance** | Sub-second semantic retrieval with optimized embedding and chunking strategies |
-| **Security** | API key management, rate-limited endpoints, sandboxed document processing |
-| **Impact** | Demonstrates advanced AI engineering — RAG, vector search, LLM orchestration |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhimaradiya0607) |
-
-This project reflects hands-on expertise in **modern AI system design** — from document chunking and embedding strategies to retrieval optimization and context-aware response generation via LLMs.
-
-<br/>
-
-</details>
-
----
-
-## ◈ Experience
-
-### Full Stack Developer &nbsp;|&nbsp; Independent / Freelance
-**2023 — Present**
-
-Independently designed, engineered, and shipped multiple production-grade web applications — including real-time communication platforms, financial systems, and developer tooling — using the MERN stack, Next.js, and TypeScript.
-
-- Architected and deployed real-time meeting and trading applications with Socket.io and WebRTC
-- Built complete MERN stack applications from system design through deployment on Vercel, Netlify, and Render
-- Integrated third-party APIs, authentication systems (JWT), and real-time data pipelines
-- Applied Docker for containerized development environments and consistent deployment workflows
-- Managed projects end-to-end using agile practices and Jira-based task tracking
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -253,60 +103,6 @@ Independently designed, engineered, and shipped multiple production-grade web ap
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-## ◈ Achievements
-
-<div align="center">
-
-| 🏆 Recognition | Details |
-|:---:|:---|
-| **Real-Time Systems** | Engineered full production WebRTC + Socket.io meetings platform from scratch |
-| **AI Systems Builder** | Independently built and deployed end-to-end RAG & LLM integration pipelines |
-| **Full Stack Depth** | Shipped multiple production MERN + Next.js applications across varied domains |
-| **DSA Practitioner** | Actively solving 300+ problems across LeetCode, GFG, and CodeChef platforms |
-| **Polyglot Engineer** | Proficient across JavaScript, TypeScript, Python, Java, C, and C++ |
-| **DevOps Adoption** | Applied Docker, CI/CD workflows, and multi-platform cloud deployments |
-
-</div>
-
----
-
-## ◈ Certifications
-
-<div align="center">
-
-### Amazon Web Services
-
-
-
----
-
-
-
-### NPTEL
-
-
----
-
-### Cisco Networking Academy
-
-![Cisco Networking](https://img.shields.io/badge/Cisco-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
-> ⚠️ *Replace placeholder certification names with your actual credentials and add verification links.*
-
----
-
-## ◈ Coding Profiles
-
-<div align="center">
-
-
-</div>
-
----
 
 ## ◈ GitHub Analytics
 
@@ -360,38 +156,7 @@ Independently designed, engineered, and shipped multiple production-grade web ap
 
 
 
-## ◈ Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Data Structures & Algorithms — advanced patterns, competitive problem solving
-    - Large Language Models — prompt engineering, fine-tuning, evaluation
-    - Retrieval-Augmented Generation (RAG) — chunking, embedding, vector retrieval
-    - Vector Databases — Pinecone, FAISS, Chroma
-    - System Design — distributed systems, backend scaling, microservices
-
-  building:
-    - Scalable real-time applications — meetings, trading, live collaboration
-    - RAG pipelines with LLM-powered response synthesis
-    - Agentic AI systems with LangGraph and tool-use orchestration
-    - Developer tooling with Next.js App Router and TypeScript
-
-  exploring:
-    - Agentic AI — AutoGen, LangGraph, multi-agent frameworks
-    - Generative AI — multimodal models, Stable Diffusion, image synthesis
-    - Advanced backend scaling — Redis, message queues, load balancing
-    - Docker + CI/CD workflows for production deployments
-
-  open_to:
-    - Full Stack Internships — MERN / Next.js / TypeScript
-    - AI/ML Engineering Internships or Research Collaborations
-    - MERN + AI project collaborations
-    - Open Source contributions — Web & AI
-    - Freelance — Web Development & AI System Integration
-```
-
----
 
 ## ◈ Connect
 
