@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=750&lines=Building+Scalable+Full+Stack+Systems;MERN+%7C+PERN++%7C+Next.js+%7C+TypeScript+Engineer;Exploring+RAG+%7C+LLMs+%7C+Agentic+AI;Turning+Complex+Ideas+into+Real+Products;DSA+%7C+System+Design+%7C+Backend+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=750&lines=Building+Scalable+Full+Stack+Systems;MERN+%7C+/PERN+%7C+Next.js+%7C+TypeScript+Engineer;Exploring+RAG+%7C+LLMs+%7C+Agentic+AI;Turning+Complex+Ideas+into+Real+Products;DSA+%7C+System+Design+%7C+Backend+Architecture)](https://git.io/typing-svg)
 
 <br/>
 
