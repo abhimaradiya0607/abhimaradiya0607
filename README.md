@@ -38,9 +38,9 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=abhimaradiya0607&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&icon_color=7B2FBE&text_color=C0A0E0&count_private=true" />
 
-I am a **B.Tech Computer Science** student building scalable, production-grade software — specializing in **real-time applications**, **trading platforms**, and **developer tooling** using the MERN stack and Next.js. I approach every problem with a **product engineering mindset**: shipping real, usable software that solves real problems.
+I am a **B.Tech Computer Science** student building scalable, production-grade software — specializing in **real-time applications**, **trading platforms**, and **developer tooling** using the MERN stack and PERN and Next.js. I approach every problem with a **product engineering mindset**: shipping real, usable software that solves real problems.
 
-My current focus spans **full stack system architecture**, advanced **backend scaling**, and a growing specialization in **Artificial Intelligence** — particularly **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Generative AI**, **Agentic AI systems**, and **Vector Databases**.
+My current focus spans **full stack system architecture**, advanced **backend scaling**
 
 My foundation in **Data Structures & Algorithms** ensures that the systems I build are not only functional but performant and optimized for scale. I regularly practice DSA across competitive platforms to sharpen algorithmic thinking and problem-solving precision.
 
