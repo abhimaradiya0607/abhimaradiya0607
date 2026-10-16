@@ -20,7 +20,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://aabhimaradiya0607.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-maradiya-b13b21282)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig._.abhi)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhimaradiya63@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhimaradiya0607)
 
@@ -34,16 +33,5 @@
 
 ---
 
-## ◈ About Me
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=abhimaradiya0607&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=9B59B6&icon_color=7B2FBE&text_color=C0A0E0&count_private=true" />
-
-I am a **B.Tech Computer Science** student building scalable, production-grade software — specializing in **real-time applications**, **trading platforms**, and **developer tooling** using the MERN stack and PERN and Next.js. I approach every problem with a **product engineering mindset**: shipping real, usable software that solves real problems.
-
-My current focus spans **full stack system architecture**, advanced **backend scaling**
-
-My foundation in **Data Structures & Algorithms** ensures that the systems I build are not only functional but performant and optimized for scale. I regularly practice DSA across competitive platforms to sharpen algorithmic thinking and problem-solving precision.
-
-I believe in writing clean, maintainable code, working through the full engineering cycle — design, development, deployment — and continuously iterating towards production quality.
 
 
